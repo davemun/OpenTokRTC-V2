@@ -10,7 +10,7 @@
   // in IE dynamic loading the library doesn't work. For the time being, as a stopgap measure,
   // loading it statically.
   if (dynamicOTLoad) {
-    var OPENTOK_API = 'https://tbdev.opentok.com/v2/js/opentok.js';
+    var OPENTOK_API = 'https://tbproxy.herokuapp.com/js/vendor/opentok-tbdev.js';
     preReqSources.unshift(OPENTOK_API);
   }
 
