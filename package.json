@@ -48,7 +48,7 @@
     "grunt-mocha-test": "^0.12.7",
     "ioredis": "^1.7.6",
     "lodash": "^4.17.4",
-    "opentok": "^2.3.0",
+    "opentok": "https://github.com/davemun/opentok-node/tarball/master",
     "swagger-boilerplate": "^0.0.9",
     "yamljs": "^0.2.10"
   },
